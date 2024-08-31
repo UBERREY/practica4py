@@ -1,0 +1,6 @@
+Nombre : uber 
+Apellidos :reyes
+Edad:18
+Telefono:961 589 1857
+Estatura:1.72
+
